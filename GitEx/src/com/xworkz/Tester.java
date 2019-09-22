@@ -10,7 +10,7 @@ public class Tester {
 		System.out.println(" Weekend Majja ");
 		System.out.println(" Biometric discussion over");
 		System.out.println(" --- DKS ----");
-		System.out.println( " Rishibavathi ");
+		System.out.println( " Rishibavathi 1 ");
 		
 		System.out.println( " Edited for Git ");
 	}
